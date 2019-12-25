@@ -1,0 +1,57 @@
+{
+  "_from": "insomnia-template-random",
+  "_id": "insomnia-template-random@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-BCc7iHpei7emniBYD23iwqJgn5E=",
+  "_location": "/insomnia-template-random",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "insomnia-template-random",
+    "name": "insomnia-template-random",
+    "escapedName": "insomnia-template-random",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/insomnia-template-random/download/insomnia-template-random-1.1.1.tgz",
+  "_shasum": "04273b887a5e8bb7a69e20580f6de2c2a2609f91",
+  "_spec": "insomnia-template-random",
+  "_where": "/Users/haoyw/Library/Application Support/Insomnia/plugins",
+  "bugs": {
+    "url": "https://github.com/kenneth-hao/insomnia-template-random/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "string-random": "^0.1.3"
+  },
+  "deprecated": false,
+  "description": "Generate random string inside the Insomnia REST client",
+  "devDependencies": {},
+  "homepage": "https://github.com/kenneth-hao/insomnia-template-random#readme",
+  "insomnia": {
+    "name": "random",
+    "description": "Generate a random string"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "random",
+    "rng",
+    "string",
+    "generator"
+  ],
+  "main": "template.js",
+  "name": "insomnia-template-random",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenneth-hao/insomnia-template-random.git"
+  },
+  "version": "1.1.1"
+}
