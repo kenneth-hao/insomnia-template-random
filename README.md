@@ -1,4 +1,6 @@
 # insomnia-plugin-randomnumber
-Generate a random number for Insomnia REST Client.
+Generate a random string for Insomnia REST Client.
 
-![Screenshot](https://raw.githubusercontent.com/Gabb1995/insomnia-plugin-randomnumber/master/readme-ss.png)
+### Install
+
+直接 clone 到 插件目录即可
